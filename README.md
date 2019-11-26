@@ -1,6 +1,6 @@
+Link to Github Account: https://github.com/ashleyperez006
+Link to Resume: https://24c866f1159a4ad9b309874286c0a935.vfs.cloud9.us-east-2.amazonaws.com/_static/LearnCS8-Resume/index.html
+Picture of Resume Website:
 
-# Welcome to LearnCS8 Resume Website
+![Resume Website](img/Screenshot.png)
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
